@@ -1,7 +1,6 @@
-- 👋 G'day, I'm Marek
-- 👀 I’m interested in web development using React and Next.js, design systems, and generative design
-- 🌱 I’m currently bulding portfolio projects
-- 📫 How to reach me at my email address: [mzelinka17@gmail.com](mailto:mzelinka17@gmail.com)
+- 👋 Hi, I'm Marek Zelinka.
+- 👀 I’m interested in web development using React and Next.js.
+- 🌱 I’m currently bulding portfolio projects.
 
 <!---
 marekzelinka/marekzelinka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
