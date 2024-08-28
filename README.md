@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Marek Zelinka
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning Next.js, TypeScript and a bit of Python
+- 💞️ I’m looking for a job as a Full-stack Web Developer
+- 📫 How to reach me:
+    - Email: [mzelinka17@gmail.com](mailto:mzelinka17@gmail.com)
+    - LinkedIn: [/in/marekzelinka](https://www.linkedin.com/in/marekzelinka/)
