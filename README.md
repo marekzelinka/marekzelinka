@@ -24,7 +24,7 @@ This is my personal (and out-of-date) work journal.. It's written in [TypeScript
 
 [Live Demo](https://work-journal-crimson-leaf-7903.fly.dev/)
 
-#### [GitHub User Search](https://github-user-search-zeta-rouge.vercel.app/)
+#### [GitHub User Search](https://github.com/marekzelinka/github-user-search)
 
 Search GitHub users by their username. This project uses the [GitHub GraphQL API](https://docs.github.com/en/graphql) and was created using [TypeScript](https://www.typescriptlang.org/), [Remix](https://remix.run/), [React](https://react.dev/) and [Tailwind CSS](https://tailwindcss.com/). I've deployed it on [Vercel](https://vercel.com/).
 
