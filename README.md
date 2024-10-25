@@ -31,19 +31,3 @@ Search GitHub users by their username. This project uses the [GitHub GraphQL API
 **Goals**: Practice data fetching, and using third-party APIs, like GitHub GraphQL API.
 
 [Live Demo](https://github-user-search-zeta-rouge.vercel.app/)
-
-### [Tic Tac Toe game](https://github.com/marekzelinka/tic-tac-toe)
-
-Clone of tic-tac-toe. This project was created to practice creating [React](https://react.dev/) components and styling using [Tailwind CSS](https://tailwindcss.com/). I've deployed it on [Vercel](https://vercel.com/).
-
-**Goals**: Complete a coding challenge by [Frontend Mentor](https://www.frontendmentor.io/challenges/tic-tac-toe-game-Re7ZF_E2v)
-
-[Live Demo](https://github-user-search-zeta-rouge.vercel.app/)
-
-### [SuperM](https://github.com/marekzelinka/supermarket-eshop)
-
-My first app. Simple e-shop using [React](https://react.dev/) and [Stripe](https://stripe.com/). Deployed on [Vercel](https://vercel.com/).
-
-**Goals**: Learn modern web development using JavaScript, React Router, and Vite.
-
-[Live Demo](https://supermarket-eshop.vercel.app/)
