@@ -1,10 +1,8 @@
-- 👋 Hi, I’m Marek Zelinka
-- 👀 I’m interested in web development, a11y, design systems, and generative art
-- 🌱 I’m currently learning Next.js, TypeScript, and a bit of Python
-- 💞️ I’m looking to collaborate on projects where I can grow
-- 📫 You can reach me via [email](mailto:mzelinka17@gmail.com) or [LinkedIn](https://www.linkedin.com/in/marekzelinka/)
-
----
+- 👋 Hi, I’m Marek Zelinka.
+- 👀 Interested in web development, a11y, design systems, and generative art.
+- 🌱 Learning Next.js, TypeScript, and a bit of Python.
+- 💞️ Looking for a job as front-end/full-stack web developer.
+- 📫 Reach me via [email](mailto:mzelinka17@gmail.com), or [LinkedIn](https://www.linkedin.com/in/marekzelinka/).
 
 ### Top portfolio projects
 
