@@ -6,9 +6,9 @@
 
 ---
 
-#### Selected projects
+### Selected projects
 
-### [Personal CRM](https://github.com/marekzelinka/personal-crm)
+#### [Personal CRM](https://github.com/marekzelinka/personal-crm)
 
 Small but feature-rich personal CRM. It's written in [TypeScript](https://www.typescriptlang.org/), using [Remix](https://remix.run/), [Prisma ORM](https://www.prisma.io/), [React](https://react.dev/) and [Tailwind CSS](https://tailwindcss.com/). I've deployed this project on [Fly.io](https://fly.io/).
 
@@ -16,7 +16,7 @@ Small but feature-rich personal CRM. It's written in [TypeScript](https://www.ty
 
 [Live Demo](https://personal-crm.fly.dev/)
 
-### [Work Journal](https://github.com/marekzelinka/work-journal)
+#### [Work Journal](https://github.com/marekzelinka/work-journal)
 
 This is my personal (and out-of-date) work journal.. It's written in [TypeScript](https://www.typescriptlang.org/), using [Remix](https://remix.run/), [React](https://react.dev/), and [Tailwind CSS](https://tailwindcss.com/). I've deployed it on [Fly.io](https://fly.io/).
 
@@ -24,7 +24,7 @@ This is my personal (and out-of-date) work journal.. It's written in [TypeScript
 
 [Live Demo](https://work-journal-crimson-leaf-7903.fly.dev/)
 
-### [GitHub User Search](https://github.com/marekzelinka/github-user-search)
+#### [GitHub User Search](https://github.com/marekzelinka/github-user-search)
 
 Search GitHub users by their username. This project uses the [GitHub GraphQL API](https://docs.github.com/en/graphql) and was created using [TypeScript](https://www.typescriptlang.org/), [Remix](https://remix.run/), [React](https://react.dev/) and [Tailwind CSS](https://tailwindcss.com/). I've deployed it on [Vercel](https://vercel.com/).
 
