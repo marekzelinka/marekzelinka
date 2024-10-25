@@ -1,8 +1,10 @@
 - 👋 Hi, I’m Marek Zelinka.
 - 👀 Interested in web development, a11y, design systems, and generative art.
 - 🌱 Learning Next.js, TypeScript, and a bit of Python.
-- 💞️ Looking for a job as front-end/full-stack web developer.
 - 📫 Reach me via [email](mailto:mzelinka17@gmail.com), or [LinkedIn](https://www.linkedin.com/in/marekzelinka/).
+
+>  [!Note]
+> Looking for a job as Front-End/Full-Stack Web Developer.
 
 ### Top portfolio projects
 
