@@ -6,7 +6,7 @@
 
 ---
 
-### Selected projects
+### Top portfolio projects
 
 #### [Personal CRM](https://github.com/marekzelinka/personal-crm)
 
