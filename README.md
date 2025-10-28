@@ -1,8 +1,7 @@
 - 👋 Hello there, I am Marek Zelinka. Nice to meet you!
 - 👀 I'm Interested in full-stack web dev, CI/CD, serverless, a11y, design systems, and VR/AR in web.
-- 🌱 Learning Next.js, TypeScript, Node.js, and Python for ML work.
+- 🌱 Learning Next.js, TypeScript, Node.js, and Python for fun :).
 - 👩‍💻 Working on portfolio projects and doing programming challenges on [Exercism](https://exercism.org/).
-- 📫 You can reach me via [email](mailto:mzelinka17@gmail.com).
 
 
 # 💻 Tech Stack:
